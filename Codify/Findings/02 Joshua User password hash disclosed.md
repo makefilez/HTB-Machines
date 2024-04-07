@@ -1,4 +1,4 @@
-The user Joshua's password was disclosed in the /var/www/contact/template/ticket.db file
+kaThe user Joshua's password was disclosed in the /var/www/contact/template/ticket.db file
 ![[Pasted image 20240406190608.png]]
 
 The password was then crack with the tool Hashcat using the following command:
