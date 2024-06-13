@@ -76,7 +76,7 @@ RawContentLength  : 115
 ```
 
 # Setting up the pivot
-We are going to use chisel
+We are going to use chischisel
 
 ## Attack Box
 ```shell
